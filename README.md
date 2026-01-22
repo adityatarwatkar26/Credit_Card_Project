@@ -87,7 +87,22 @@ This project focuses on analyzing credit card transaction data to identify fraud
 - 🔐 No personally identifiable information (PII) is included  
 
 ---
-<img width="1447" height="790" alt="Screenshot 2026-01-22 135259" src="https://github.com/user-attachments/assets/5012d01a-d1ea-42a7-932d-e835f87adbc5" />
+# Dashboard
+<img width="1544" height="857" alt="Screenshot 2026-01-22 165539" src="https://github.com/user-attachments/assets/bb192d31-8028-402a-978b-edb031f00680" />
+
+## 🔍 Key Insights 
+
+📍 Geographic Concentration: Fraud activity is heavily concentrated in major Indian cities, with Delhi showing the highest transaction amount, indicating a high-risk urban zone.
+
+🏙️ In-City vs Out-City: In-city transactions dominate fraud cases, suggesting misuse within familiar locations rather than remote areas.
+
+🔢 Overall Volume: A total of 3,000 fraudulent transactions highlights a significant fraud footprint in the dataset.
+
+🛍️ Category Trends: Fashion, Fuel, and Groceries contribute consistently high fraud-related spend across customers.
+
+👥 Gender Spend Pattern: Male customers slightly outspend females in most fraud-prone categories, especially Fashion, Jewelry, and Travel.
+
+⚠️ Risk Hotspots: High transaction amounts combined with urban locations indicate priority areas for enhanced fraud monitoring.
 
 ## ⭐ Project Value
 This project demonstrates:
