@@ -1,6 +1,5 @@
 # Credit_Card_Mini_Project
 ![pexels-davegarcia-32641816](https://github.com/user-attachments/assets/5d8a8e11-45e8-41b7-994b-3594e56b635d)
-# Credit Card Fraud Detection & Risk Analysis
 
 # 💳 Credit Card Fraud Detection & Risk Analysis
 
@@ -8,6 +7,7 @@
 This project focuses on analyzing credit card transaction data to identify fraud patterns, high-risk segments, and behavioral anomalies. The dataset simulates real-world fraud scenarios to support **risk mitigation, fraud prevention, and data-driven decision-making** using visual analytics.
 
 ---
+# Tool Used :-
 
 ## 📊 Dataset Description
 - 📁 **Total Records:** 3,000 transactions  
