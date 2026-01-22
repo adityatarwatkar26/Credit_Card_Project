@@ -87,6 +87,7 @@ This project focuses on analyzing credit card transaction data to identify fraud
 - 🔐 No personally identifiable information (PII) is included  
 
 ---
+<img width="1447" height="790" alt="Screenshot 2026-01-22 135259" src="https://github.com/user-attachments/assets/5012d01a-d1ea-42a7-932d-e835f87adbc5" />
 
 ## ⭐ Project Value
 This project demonstrates:
